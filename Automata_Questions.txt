@@ -1,0 +1,5 @@
+1. Design a DFA which accepts string 1100 or 1010 only
+2. Design a DFA which accepts which accepts set of all strings that containing 0101 as substring
+3. Design a DFA which accepts set of all strings containg 3 consecutive zeros
+4. Design a DFA which does not accept set of all strings containing 3 consecutive zero
+5. Design a DFA which accepts set of all strings which are divisible of 5 for binary alphabets
